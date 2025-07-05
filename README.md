@@ -4,7 +4,7 @@ CSE 322 : Computer Networks - Project
 Kawshik Kumar Paul\
 Undergrad Student\
 BUET CSE'17\
-kawshik.kumar.paul@gmail.com\
+kawshikbuet17@gmail.com\
 https://kawshikbuet17.github.io
 ### Supervised By:
 Md. Tareq Mahmood\
