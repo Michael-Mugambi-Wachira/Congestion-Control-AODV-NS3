@@ -1,15 +1,29 @@
-CSE 322 : Computer Networks - Project
-===================================
-### Project By:
-Kawshik Kumar Paul\
-Undergrad Student\
-BUET CSE'17\
-kawshikbuet17@gmail.com\
-https://kawshikbuet17.github.io
-### Supervised By:
-Md. Tareq Mahmood\
-Lecturer\
-Dept of CSE, BUET
+# Congestion-Control AODV Implementation Using NS-3
+### CSE 322: Computer Networks — Project
+
+This repository contains the complete implementation of a **Congestion-Control AODV** developed as part of the **CSE 322 (Computer Networks)** course.
+
+A **detailed article with full implementation guidelines**, design explanations, and experimental insights aligned with this repository is available on **ResearchGate**.  
+The article serves as a practical walkthrough and companion reference for this codebase.
+
+🔗 **ResearchGate Article Links**
+- https://www.researchgate.net/publication/399499241  
+- https://doi.org/10.13140/RG.2.2.22434.90561  
+
+---
+
+## Project By
+**Kawshik Kumar Paul**  
+Undergraduate Student  
+BUET CSE ’17  
+kawshikbuet17@gmail.com
+
+## Supervised By
+**Md. Tareq Mahmood**  
+Lecturer  
+Department of CSE, BUET  
+https://cse.buet.ac.bd/faculty/faculty_detail/tareq
+
 
 Network Topologies Under Simulation
 ===================================
