@@ -7,8 +7,8 @@ A **detailed article with full implementation guidelines**, design explanations,
 The article serves as a practical walkthrough and companion reference for this codebase.
 
 🔗 **ResearchGate Article Links**
-- https://www.researchgate.net/publication/399499241  
-- https://doi.org/10.13140/RG.2.2.22434.90561  
+- [https://www.researchgate.net/publication/399499241](https://www.researchgate.net/publication/399499241) 
+- [https://doi.org/10.13140/RG.2.2.22434.90561](https://doi.org/10.13140/RG.2.2.22434.90561)  
 
 ---
 
