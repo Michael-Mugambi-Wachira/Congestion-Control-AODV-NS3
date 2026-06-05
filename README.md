@@ -3,12 +3,9 @@
 
 This repository contains the complete implementation of a **Congestion-Control AODV** developed as part of the **CSE 322 (Computer Networks)** course.
 
-A **detailed article with full implementation guidelines**, design explanations, and experimental insights aligned with this repository is available on **ResearchGate**.  
-The article serves as a practical walkthrough and companion reference for this codebase.
-
-🔗 **ResearchGate Article Links**
-- [https://www.researchgate.net/publication/399499241](https://www.researchgate.net/publication/399499241) 
-- [https://doi.org/10.13140/RG.2.2.22434.90561](https://doi.org/10.13140/RG.2.2.22434.90561)  
+🔗 A **detailed article with full implementation guidelines**, design explanations, and experimental insights aligned with this repository is available on:
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6812538](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6812538)
+- [https://www.researchgate.net/publication/399499241](https://www.researchgate.net/publication/399499241)
 
 ---
 
