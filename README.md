@@ -1,5 +1,5 @@
 # Congestion-Control AODV Implementation Using NS-3
-### CSE 322: Computer Networks — Project
+## CSE 322: Computer Networks — Project
 
 This repository contains the complete implementation of a **Congestion-Control AODV** developed as part of the **CSE 322 (Computer Networks)** course.
 
